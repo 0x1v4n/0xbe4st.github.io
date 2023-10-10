@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TryHackMe on Be4St</title>
+    <link>/categories/tryhackme/</link>
+    <description>Recent content in TryHackMe on Be4St</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-AU</language>
+    <copyright>SGFwcHkgSGFja2luZyE8Mw==</copyright>
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write Up Gatekeeper</title>
+      <link>/posts/gatekeeper-thm/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gatekeeper-thm/</guid>
+      <description>Resolución de la Máquina Gatekeeper de TryHackMe de dificultad media abordando contenido de Buffer overflow.</description>
+    </item>
+    
+    <item>
+      <title>Write Up Brainpan</title>
+      <link>/posts/brainpan-thm/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/brainpan-thm/</guid>
+      <description>Resolución de la Máquina Brainpan de dificultad díficil de TryHackMe abordando Buffer overflow.</description>
+    </item>
+    
+  </channel>
+</rss>

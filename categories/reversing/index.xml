@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reversing on Be4St</title>
+    <link>/categories/reversing/</link>
+    <description>Recent content in Reversing on Be4St</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-AU</language>
+    <copyright>SGFwcHkgSGFja2luZyE8Mw==</copyright>
+    <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/reversing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unpack .Net Reactor (Native)</title>
+      <link>/posts/unpack-net-reactor/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpack-net-reactor/</guid>
+      <description>¡Hola a todos!, Os traigo un post en donde se realizará ingeniería inversa a un pequeño login que he creado en C ofuscado con .Net reactor.</description>
+    </item>
+    
+    <item>
+      <title>Unpack ConfuserEx &amp; Enigma</title>
+      <link>/posts/unpack-confuserex/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpack-confuserex/</guid>
+      <description>Desempaquetado de un Archivo &amp;ldquo;.exe&amp;rdquo; ofuscado con ConfuserEx y Enigma.NET.</description>
+    </item>
+    
+    <item>
+      <title>Unpack Pyarmor &amp; Pyinstaller</title>
+      <link>/posts/unpack-pyarmor/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpack-pyarmor/</guid>
+      <description>Tipo de ofuscación # Comenzamos mirando que tipo de obfuscación lleva el archivo.</description>
+    </item>
+    
+  </channel>
+</rss>

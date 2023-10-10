@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HackTheBox on Be4St</title>
+    <link>/categories/hackthebox/</link>
+    <description>Recent content in HackTheBox on Be4St</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-AU</language>
+    <copyright>SGFwcHkgSGFja2luZyE8Mw==</copyright>
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Write Up Precious</title>
+      <link>/posts/precious-htb/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/precious-htb/</guid>
+      <description>Resolución de la Máquina Precious de HackTheBox de dificultad fácil.</description>
+    </item>
+    
+  </channel>
+</rss>

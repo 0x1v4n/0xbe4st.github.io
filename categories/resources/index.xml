@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Be4St</title>
+    <link>/categories/resources/</link>
+    <description>Recent content in Resources on Be4St</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-AU</language>
+    <copyright>SGFwcHkgSGFja2luZyE8Mw==</copyright>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eCPPTv2 Review</title>
+      <link>/posts/ecpptv2-review/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ecpptv2-review/</guid>
+      <description>Recientemente me he sacado la certificación eCPPTv2, ¿qué tan difícil es?, ¿merece la pena pagar por esta certificación?</description>
+    </item>
+    
+    <item>
+      <title>Introducción a Buffer overflow</title>
+      <link>/posts/bof-introduction/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bof-introduction/</guid>
+      <description>Conceptos fundamentales para Buffer overflow.</description>
+    </item>
+    
+    <item>
+      <title>eJPTv2 Review</title>
+      <link>/posts/ejptv2-review/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ejptv2-review/</guid>
+      <description>Recientemente me he sacado la certificación eJPTv2, ¿qué tan difícil es?, ¿merece la pena pagar por esta certificación?</description>
+    </item>
+    
+  </channel>
+</rss>
