@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Be4St</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Be4St</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-AU</language>
+    <copyright>SGFwcHkgSGFja2luZyE8Mw==</copyright>
+    <lastBuildDate>Wed, 06 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eCPPTv2 Review</title>
+      <link>/posts/ecpptv2-review/</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ecpptv2-review/</guid>
+      <description>Recientemente me he sacado la certificación eCPPTv2, ¿qué tan difícil es?, ¿merece la pena pagar por esta certificación?</description>
+    </item>
+    
+    <item>
+      <title>Unpack .Net Reactor (Native)</title>
+      <link>/posts/unpack-net-reactor/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpack-net-reactor/</guid>
+      <description>¡Hola a todos!, Os traigo un post en donde se realizará ingeniería inversa a un pequeño login que he creado en C ofuscado con .Net reactor.</description>
+    </item>
+    
+    <item>
+      <title>Write Up Gatekeeper</title>
+      <link>/posts/gatekeeper-thm/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gatekeeper-thm/</guid>
+      <description>Resolución de la Máquina Gatekeeper de TryHackMe de dificultad media abordando contenido de Buffer overflow.</description>
+    </item>
+    
+    <item>
+      <title>Introducción a Buffer overflow</title>
+      <link>/posts/bof-introduction/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bof-introduction/</guid>
+      <description>Conceptos fundamentales para Buffer overflow.</description>
+    </item>
+    
+    <item>
+      <title>Write Up Brainpan</title>
+      <link>/posts/brainpan-thm/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/brainpan-thm/</guid>
+      <description>Resolución de la Máquina Brainpan de dificultad díficil de TryHackMe abordando Buffer overflow.</description>
+    </item>
+    
+    <item>
+      <title>eJPTv2 Review</title>
+      <link>/posts/ejptv2-review/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ejptv2-review/</guid>
+      <description>Recientemente me he sacado la certificación eJPTv2, ¿qué tan difícil es?, ¿merece la pena pagar por esta certificación?</description>
+    </item>
+    
+    <item>
+      <title>Unpack ConfuserEx &amp; Enigma</title>
+      <link>/posts/unpack-confuserex/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpack-confuserex/</guid>
+      <description>Desempaquetado de un Archivo &amp;ldquo;.exe&amp;rdquo; ofuscado con ConfuserEx y Enigma.NET.</description>
+    </item>
+    
+    <item>
+      <title>Unpack Pyarmor &amp; Pyinstaller</title>
+      <link>/posts/unpack-pyarmor/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/unpack-pyarmor/</guid>
+      <description>Tipo de ofuscación # Comenzamos mirando que tipo de obfuscación lleva el archivo.</description>
+    </item>
+    
+    <item>
+      <title>Write Up Precious</title>
+      <link>/posts/precious-htb/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/precious-htb/</guid>
+      <description>Resolución de la Máquina Precious de HackTheBox de dificultad fácil.</description>
+    </item>
+    
+  </channel>
+</rss>
